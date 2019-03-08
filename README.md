@@ -17,4 +17,9 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 
 ## 更新記錄
 ### 2019.03.08 
-EPA資料清理，範例資料：[pm25_2015.csv](https://github.com/tingsyo/course_py4as/blob/master/data/pm25_2015.csv)。嚴重污染的標準：50/100/150 10^-6g/m^3
+- EPA資料清理，範例在[data_preparation 資料夾](https://github.com/tingsyo/course_ce2019/tree/master/data_preparation)。
+- 資料清理，相關軟體安裝請參考：[使用 Python 分析與探索氣象資料](https://github.com/tingsyo/course_py4as)。
+- 作業：
+  - 範例資料：[pm25_2015.csv](https://github.com/tingsyo/course_py4as/blob/master/data/pm25_2015.csv)
+  - 嚴重污染的標準：50/100/150 10^-6g/m^3
+  - 定義嚴重空污事件的發生
