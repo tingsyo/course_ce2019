@@ -16,4 +16,4 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 學生須有自行撰寫與修改程式語言基礎，建議能先修大學部之流體力學、熱力學、地球系統概論、計算機語言、數值分析等課程 
 
 ## 更新記錄
-2019.03.08 EPA資料清理
+2019.03.08 EPA資料清理，範例資料：[pm25_2015.csv](https://github.com/tingsyo/course_py4as/blob/master/data/pm25_2015.csv)
