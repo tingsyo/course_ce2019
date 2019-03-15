@@ -23,3 +23,11 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
   - 範例資料：[pm25_2015.csv](https://github.com/tingsyo/course_py4as/blob/master/data/pm25_2015.csv)
   - 嚴重污染的標準：50/100/150 10^-6g/m^3
   - 定義嚴重空污事件的發生
+
+## 2019.03.15
+- repo 架構修改：每週新增內容在新資料夾 /weekNN_TOPIC_NAME，資料存放在 /data
+- 新增第二週內容： /week02_define_pollution
+- 定義「高污染事件」
+- cluster analysis 範例
+
+
