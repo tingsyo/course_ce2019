@@ -30,4 +30,6 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 - 定義「高污染事件」
 - cluster analysis 範例
 
+### 2019.03.20
+- 新增 EPA 測站經緯度資訊：/data/epa_stations.csv
 
