@@ -17,7 +17,7 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 
 ## 更新記錄
 ### 2019.03.08 
-- EPA資料清理，範例在[data_preparation 資料夾](https://github.com/tingsyo/course_ce2019/tree/master/data_preparation)。
+- EPA資料清理，範例在[week01_data_preparation 資料夾](https://github.com/tingsyo/course_ce2019/tree/master/data_preparation)。
 - 資料清理，相關軟體安裝請參考：[使用 Python 分析與探索氣象資料](https://github.com/tingsyo/course_py4as)。
 - 作業：
   - 範例資料：[pm25_2015.csv](https://github.com/tingsyo/course_py4as/blob/master/data/pm25_2015.csv)
@@ -32,4 +32,9 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 
 ### 2019.03.20
 - 新增 EPA 測站經緯度資訊：/data/epa_stations.csv
+- 新增第3週內容： /week03_hararchical_clustering_and_similarity
 
+### 2019.04.17
+- 修改 week01_data_preparation/epa_reorganize.ipynb，修正資料合併時資料重複複製的 bug
+- 新增 week01_data_preparation/epa_preprocessing.ipynb，利用 EPA data 製作 PM2.5 資料
+- 新增 data/pm25_2000_2014.csv
