@@ -38,3 +38,9 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 - 修改 week01_data_preparation/epa_reorganize.ipynb，修正資料合併時資料重複複製的 bug
 - 新增 week01_data_preparation/epa_preprocessing.ipynb，利用 EPA data 製作 PM2.5 資料
 - 新增 data/pm25_2000_2014.csv
+
+## 2019.04.19
+- [bug fixed] week01_data_preparation/epa_reorganize.ipynb -> read_epa_file:
+  - 如果第一個讀取的觀測項目不存在或缺資料，其他觀測項目在缺的日期時間即使有資料也會被丟棄
+  - 修正：先產生完整「日期─時間」清單再開始讀取變項，如果資料有缺會轉成 missing values
+- [updated] data/pm25_2000_2014.csv
