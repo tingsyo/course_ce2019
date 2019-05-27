@@ -16,6 +16,7 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 學生須有自行撰寫與修改程式語言基礎，建議能先修大學部之流體力學、熱力學、地球系統概論、計算機語言、數值分析等課程 
 
 ## 更新記錄
+
 ### 2019.03.08 
 - EPA資料清理，範例在[week01_data_preparation 資料夾](https://github.com/tingsyo/course_ce2019/tree/master/data_preparation)。
 - 資料清理，相關軟體安裝請參考：[使用 Python 分析與探索氣象資料](https://github.com/tingsyo/course_py4as)。
@@ -47,3 +48,16 @@ This repo contains course materials of the course Clouds and Environment 2019Q1 
 
 ### 2019.04.21
 - [Added] week04_generalized_linear_model/Generalized_Linear_Model.ipynb
+
+### 2019.05.16
+- [Added] week05_dimension_reduction/301_pca_using_python.ipynb
+- [Added] week05_dimension_reduction/302_pca_using_python_mnist.ipynb
+- [Added] week06_model_evaluation/Evaluating Machine Learning Model.ipynb
+- [Added] week06_model_evaluation/Example_model_evaluation.ipynb
+
+### 2019.05.27
+- [Added] week05_dimension_reduction/PCA_ncep_example.ipynb
+- [Updated] week06_model_evaluation/Example_model_evaluation.ipynb -> Example_cross_validation.ipynb
+- [Added] week06_model_evaluation/Example_feature_selection.ipynb
+
+
